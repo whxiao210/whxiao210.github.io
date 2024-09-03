@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! Welcome to my personal website:)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am a first year grad student from [SMART program (M.S.Ed. Statistics, Measurement, Assessment and Research Technology)](https://www.gse.upenn.edu/academics/programs/education-statistics-measurement-assessment-research-masters) at [PennGSE](https://www.gse.upenn.edu/). My research interest includes Assessment, Testing and Measurement | Research Meathods | Industrial and Organisational Psychology.
 
