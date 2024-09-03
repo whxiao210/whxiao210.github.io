@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Huanxiao Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Cooperative, Curious, Stable, Patient and Open-minded"
+  pronouns         : "/hwæn ʃiːaʊ/"  
+  bio              : "Cooperative/Curious/Stable/Patient/Open-minded"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://whxiao210.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : Huanxiao Wang
+  youtube          : # Username
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
