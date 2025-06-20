@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huanxiao's website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Huanxiao Wang"
   pronouns         : "/hwæn ʃiːaʊ/"  
-  bio              : "Cooperative,Curious,Stable,Patient and Open-minded"
+  bio              : "M.S.Ed Student in Educational Stats"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "www.linkedin.com/in/huanxiao-wang-69b17a2b2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Huanxiao_Shawn"# Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
