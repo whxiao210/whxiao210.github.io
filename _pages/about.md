@@ -15,9 +15,9 @@ I got my bachelor degree from the [Communication University of China](https://ww
 
 ## 🎓 Education
 - *Sep 2024 - Dec 2025 (anticipated)*, M.S.Ed in Statistics, Measurement, Assessment and Research Technology, Graduate School of Education, University of Pennsylvania
-- - GPA: *3.57/4.0*
+   GPA: *3.57/4.0*
 - *Sep 2019 - Jun 2023*, B.A. in Public Relations, Advertising School, Communication University of China
-- - GPA: *3.72/4.0*
+   GPA: *3.72/4.0*
 
 ## 📖 Conference Presentations
 - <code>IOMW 2025, Poster Session</code> Exploring the Application of Generative AI in Educational Psychological Measurement: Virtual Personas and Their Validity,**Huanxiao Wang**, Boulder, CO
