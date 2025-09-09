@@ -9,6 +9,7 @@
  *  - https://twitter.com/mmistakes
  *
 */
+$sidebar-width: 240px;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -41,8 +42,20 @@
 @import "print";
 
 @import "custom-width";
-.main {
+.page,
+.page__content {
+  margin-left: 0;
   @include breakpoint($large) {
-    margin-left: $sidebar-width;
+    margin-left: $sidebar-width + 20px;
   }
+}
+.sidebar { width: $sidebar-width; }
+.mv-embed { max-width: 720px; margin: 1.5rem auto; }
+.mv-embed iframe,
+.mv-embed > div,
+.mv-embed canvas { width: 100% !important; height: 420px !important; display: block; }
+@media (max-width: 900px) {
+  .mv-embed iframe,
+  .mv-embed > div,
+  .mv-embed canvas { height: 300px !important; }
 }
