@@ -9,4 +9,7 @@ ul li, ol li { margin-bottom: 0.35em; }
 
 #main, .wrap { max-width: 1200px; }
 .page__content { max-width: 1000px; margin: 0 auto; }
-.sidebar { width: $sidebar-width; } 
+
+@include breakpoint($large) {
+  .page, .page__content { margin-left: 0 !important; }
+}
