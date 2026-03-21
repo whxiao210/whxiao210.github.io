@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! I am Huanxiao Wang (王奂霄), feel free to call me Shawn. I'm a master student in the [SMART](https://www.gse.upenn.edu/academics/programs/education-statistics-measurement-assessment-research-masters) (M.S.Ed. Statistics, Measurement, Assessment and Research Technology) at the [University of Pennsylvania](https://www.gse.upenn.edu/). My research interest includes Assessment, Testing and Measurement, Causal Inference.
+Hi there! I am Huanxiao Wang (王奂霄), feel free to call me Shawn. I'm an incoming doctoral student in the [Gervirtz Graduate School of Education](https://education.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/). I will be working with [Dr. Yixiao Dong](https://education.ucsb.edu/research-faculty/bio?first=Yixiao&last=Dong) from Fall 2026. My research interest includes Assessment, Testing and Measurement, Causal Inference.
 
 I was born and raised in China, where I completed my compulsory education and earned my bachelor’s degree from the [Communication University of China](https://www.cuc.edu.cn/). After moving to the U.S. last year, I began to realize the power of *language* and started thinking about how to assess it more effectively. For example, how to ensuring that international assessments accurately measure students’ true ability across different language backgrounds.
 
@@ -18,10 +18,12 @@ My life philosophy is to embrace the unknown. This is one of the reasons why I h
 Outside of my academic work, I enjoy spending time with friends, exploring cities and nature, staying active through sports, and playing video games. I also studied Guohua (traditional Chinese painting) from the age of six, and I plan to take it up again in the near future.
 
 ## 🎓 Education
-- *Sep 2024 - Dec 2025 (anticipated)*, M.S.Ed in Statistics, Measurement, Assessment and Research Technology, Graduate School of Education, University of Pennsylvania
-  - GPA: *3.59/4.0*
+- *Sep 2026 - Jun 2031 (anticipated)*, PhD in Education (Policy, Program Evaluation and Research Methods), Gevirtz School, University of California, Santa Barbara
+  - Advisor: Dr. Yixiao Dong
+- *Sep 2024 - Dec 2025*, M.S.Ed in Statistics, Measurement, Assessment and Research Technology, Graduate School of Education, University of Pennsylvania
+  - GPA: *3.7/4.0*
 - *Sep 2019 - Jun 2023*, B.A. in Public Relations, Advertising School, Communication University of China
-  - GPA: *3.72/4.0*
+  - GPA: *3.7/4.0*
 
 ## 📖 Conference Presentations
 - <code>AIME-CON 2025, Paper Session</code>  Exploring the Psychometric Validity of AI-Generated Student Responses: A Study
