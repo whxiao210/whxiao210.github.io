@@ -27,7 +27,7 @@ Outside of my academic work, I enjoy spending time with friends, exploring citie
 
 ## 📖 Conference Presentations
 - <code>AIME-CON 2025, Paper Session</code>  Exploring the Psychometric Validity of AI-Generated Student Responses: A Study
-on Virtual Personas’ Learning Motivation, **Huanxiao Wang**, Pittsburgh, PA
+on Virtual Personas’ Learning Motivation, **Huanxiao Wang**, Pittsburgh, PA [[Proceedings Link]](https://aclanthology.org/2025.aimecon-main.39/)
 - <code>IOMW 2025, Poster Session</code>  Exploring the Application of Generative AI in Educational Psychological Measurement: Virtual Personas and Their Validity,**Huanxiao Wang**, Boulder, CO
 - <code>AERA 2025, Roundtable Session</code>  Exploring the Application of Generative AI in Educational Psychological Measurement: Virtual Personas and Their Validity,**Huanxiao Wang**, Denver, CO [[Poster Link]](https://aera25-aera.ipostersessions.com/Default.aspx?s=63-0A-E2-0C-D6-B8-AF-14-C2-3C-45-D5-E4-46-A5-80)
 
